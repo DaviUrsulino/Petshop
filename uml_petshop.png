@@ -1,0 +1,3 @@
+from PIL import Image
+
+Image.open("c:\Users\davio\Downloads\uml_petshop.png.png")
