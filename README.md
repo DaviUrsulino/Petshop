@@ -127,6 +127,7 @@ Abaixo está o diagrama UML representando as principais classes e relações do 
 
 ![Diagrama UML](uml_petshop.png)
 
+feito no Draw.io
 
 
 
